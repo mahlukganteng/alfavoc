@@ -10,7 +10,6 @@ $headers[] = 'X-Location: -6,117412,106,153527';
 // Menu
 
 echo "===Mahlukganteng.com===\n";
-echo " Voucher alfamart UNTUKMU  n";
 echo "1. Register (Akun Baru food only)\n";
 echo "2. Login 1 Hari Berikutnya (Voc Untukmu)\n";
 echo "=======================\n";
